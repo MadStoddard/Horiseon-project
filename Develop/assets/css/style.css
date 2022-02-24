@@ -97,6 +97,9 @@ h3 {
     text-align: center;
 }
 
+.benefits p {
+    margin-bottom: 50px;
+}
 
 .benefits img {
     display: block;
