@@ -19,7 +19,7 @@ This website requires no installation.
 
 Use this website as a guide to gather more information about Horiseon as a company and what it can do to help your buisness, including an increase in profit margin.
 
-![photo of the Horiseon Website](Horiseon_Webpage_1.png)
+![Horiseon Webpage 1](https://user-images.githubusercontent.com/98136587/155444935-ee7f3246-c3cb-4237-baed-a526ced205c4.png)
 
 
 ## Credits
