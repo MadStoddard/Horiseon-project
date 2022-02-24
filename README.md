@@ -13,7 +13,7 @@ I helped build this website with the intention to learn more about HTML semantic
 
 ## Installation
 
-This website requires no installation.
+This website requires no installation. Click link to open webpage: [file:///C:/Users/madel/projects/urban-octo-telegram/Develop/index.html](Horiseon Website)
 
 ## Usage
 
